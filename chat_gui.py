@@ -24,7 +24,7 @@ class ChatGUI:
         self.emoji_button.pack(side=tk.RIGHT)
 
         # Replace with your actual API key
-        api_key = "AIzaSyBYV85DejQJyVE6gkCBfMVwXKyJZ6KAuGg"
+        api_key = "YOUR_API_KEY_HERE"
 
         # Model Configuration (ensure the model name is valid)
         model_name = "gemini-1.5-pro-latest"  # Verify the correct model name
