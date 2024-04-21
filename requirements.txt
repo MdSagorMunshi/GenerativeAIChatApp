@@ -1,0 +1,7 @@
+# Requirements for Generative AI Chat App
+
+# Python libraries
+tkinter
+google-generativeai
+python-dotenv
+
