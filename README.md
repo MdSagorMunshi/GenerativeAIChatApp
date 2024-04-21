@@ -30,7 +30,7 @@ This project is a Graphical User Interface (GUI) chat application built using Tk
 
 3.  **Install the required libraries:**
     ```bash
-    pip install google-generativeai tkinter
+    pip install -r requirements.txt
     ```
 4.  **Obtain a Google Generative AI API Key:** 
     Follow the instructions on the [Google Generative AI Studio](https://aistudio.google.com/app/apikey) to obtain an API key and replace `"YOUR_API_KEY_HERE"` in the code with your actual key.
