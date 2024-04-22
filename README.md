@@ -1,6 +1,5 @@
 ### **Generative AI Chat App**
 [![Version](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/MdSagorMunshi/GenerativeAIChatApp)
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MdSagorMunshi.GenerativeAIChatApp)](https://github.com/MdSagorMunshi/GenerativeAIChatApp)
 
 This project is a Graphical User Interface (GUI) chat application built using Tkinter that allows users to interact with a large language model powered by Google Generative AI. The application provides a user-friendly interface for engaging in conversations with the AI and exploring its capabilities.
 
